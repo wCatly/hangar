@@ -1,6 +1,2 @@
--Fizz
--Ashe
--Velkoz
--Kennen
--Varus
+Now you can disable or acitvate melee magnet by pressing "/" key
 Updated
