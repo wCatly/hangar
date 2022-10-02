@@ -1,4 +1,4 @@
--29 Champions Updated-
+-Champions Updated-
 -Akali
 -Akshan
 -Amumu
@@ -28,3 +28,23 @@
 -Kha zix
 -Kindered
 -Kled
+-leona
+-lillia
+-malphite
+-malzahar
+-maokai
+-miss-fortune
+-mordekaiser
+-morgana
+-nami
+-nasus
+-nautilus
+-nidalee
+-nilah
+-nocturne
+-nunu
+-orianna
+-ornn
+-pantheon
+-poppy
+-quinn
