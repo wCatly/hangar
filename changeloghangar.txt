@@ -1,19 +1,7 @@
 -Champions Update-
 
--nidalee
--rakan
--rammus
--reksai
--rell
--reneta glasc
--renekton
--rengar
--rumble
--ryze
--sejuani
--sett
--shaco
--shen
--shyvana
--skarner
--soraka
+-Yasuo
+-Ziggs
+
+URF Bitene kadar son güncelleme. Bozuk şampiyonları lütfen bildiriniz "discord.gg/hangarscript"
+Ayarları URF'da oynadığınız karaktere göre kendiniz ayarlayınız. Bu config normal oyun içindir URF özel config GELMEYECEKTİR !!!!
