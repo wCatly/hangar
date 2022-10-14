@@ -1,7 +1,9 @@
--Champions Update-
+-General Update-
 
--Yasuo
--Ziggs
+Çok oynanan şampiyonlar harici şampiyonlara özel ayar yapılmamıştır .
 
-URF Bitene kadar son güncelleme. Bozuk şampiyonları lütfen bildiriniz "discord.gg/hangarscript"
-Ayarları URF'da oynadığınız karaktere göre kendiniz ayarlayınız. Bu config normal oyun içindir URF özel config GELMEYECEKTİR !!!!
+Config artık sadece ay başı update alıcaktır. 
+
+Oynadığınız şampiyonda sorun varsa lütfen "XGB Config" discordu üzerinden karakter ayarlarına bakınız.
+
+
