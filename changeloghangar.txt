@@ -1,5 +1,7 @@
 -General Update-
 
+31.10.2022 Updated
+
 Çok oynanan şampiyonlar harici şampiyonlara özel ayar yapılmamıştır .
 
 Config artık sadece ay başı update alıcaktır. 
