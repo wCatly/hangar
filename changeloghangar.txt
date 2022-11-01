@@ -1,15 +1,4 @@
 -General Update-
 
-31.10.2022 Updated
-
-Çok oynanan şampiyonlar harici şampiyonlara özel ayar yapılmamıştır .
-
-Config artık sadece ay başı update alıcaktır. 
-
-Oynadığınız şampiyonda sorun varsa lütfen "XGB Config" discordu üzerinden karakter ayarlarına bakınız.
-
-No special settings have been made for champions other than the most played champions.
-
-Config will now receive updates only at the beginning of the month.
-
-If there is a problem with the champion you are playing, please check the character settings on the "XGB Config" discord.
+Updated for last BGX.GG Changes now working all fine.
+Son BGX.GG Güncellemelerine göre Config optimize edildi iyi oyunlar. 
