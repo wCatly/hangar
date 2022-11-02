@@ -1,8 +1,12 @@
 -General Update-
 
+LÜTFEN KARAKTERİ OYNAMADAN ÖNCE "DİSCORD.GG/BGX" SUNUCUSUNDAN KARAKTERİN GÜNCEL PLUGİN'İNE BAKIN 
+
 Temel karakter ayarları ve genel script ayarları yapılı config. Sadece karakter ayarlarını değiştirerek oynayabilirsiniz.
 
 Karakter ayarları için discord.gg/bgx 
+
+PLEASE CHECK THE CHARACTER'S LATEST PLUGIN FROM "DISCORD.GG/BGX" BEFORE PLAYING THE CHARACTER
 
 Basic character settings and general core settings config. You can change the character settings from dsicord below
 
