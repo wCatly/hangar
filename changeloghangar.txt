@@ -1,4 +1,9 @@
 -General Update-
 
-Updated for last BGX.GG Changes now working all fine.
-Son BGX.GG Güncellemelerine göre Config optimize edildi iyi oyunlar. 
+Temel karakter ayarları ve genel script ayarları yapılı config. Sadece karakter ayarlarını değiştirerek oynayabilirsiniz.
+
+Karakter ayarları için discord.gg/bgx 
+
+Basic character settings and general core settings config. You can change the character settings from dsicord below
+
+discord.gg/bgx for character settings and all BGX Settings
